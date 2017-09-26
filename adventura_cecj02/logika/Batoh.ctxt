@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Batoh()
+comment0.text=\r\n\ \ Konstruktor\ t\u0159\u00EDdy\r\n
+comment1.params=vec
+comment1.target=int\ vlozVec(Vec)
+comment1.text=\r\n\ P\u0159id\u00E1\ v\u011Bc\ do\ batohu,\ pokud\ se\ tam\ vejde\r\n\ \r\n\ @return\ 1\ kdy\u017E\ se\ v\u011Bc\ vlo\u017E\u00ED\r\n\ @return\ 2\ pokud\ je\ v\u011Bc\ nep\u0159enositeln\u00E1\r\n\ @return\ 3\ pokud\ nen\u00ED\ dostatek\ m\u00EDsta\ v\ batohu\r\n
+comment2.params=jmenoVeci
+comment2.target=boolean\ obsahujeVecVBatohu(java.lang.String)
+comment2.text=\r\n\ Vyhled\u00E1\ v\u011Bc\ v\ batohu\r\n\ \r\n\ @return\ true\ kdy\u017E\ ji\ najde\r\n
+comment3.params=
+comment3.target=java.lang.String\ nazvyVeciVBatohu()
+comment3.text=\r\n\ Vyp\u00ED\u0161e\ v\u011Bci,\ kter\u00E9\ jsou\ v\ batohu\r\n
+comment4.params=nazev
+comment4.target=Vec\ vyhodZBatohu(java.lang.String)
+comment4.text=\r\n\ Odebere\ v\u011Bc\ z\ batohu\r\n
+numComments=5
